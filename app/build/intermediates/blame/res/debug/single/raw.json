@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/guidry/StudioProjects/AnimalSounds2/app/build/intermediates/res/merged/debug/raw/duck.wav",
+        "source": "/home/guidry/StudioProjects/AnimalSounds2/app/src/main/res/raw/duck.wav"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/AnimalSounds2/app/build/intermediates/res/merged/debug/raw/sheep.mp3",
+        "source": "/home/guidry/StudioProjects/AnimalSounds2/app/src/main/res/raw/sheep.mp3"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/AnimalSounds2/app/build/intermediates/res/merged/debug/raw/baby_laugh.mp3",
+        "source": "/home/guidry/StudioProjects/AnimalSounds2/app/src/main/res/raw/baby_laugh.mp3"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/AnimalSounds2/app/build/intermediates/res/merged/debug/raw/cow.wav",
+        "source": "/home/guidry/StudioProjects/AnimalSounds2/app/src/main/res/raw/cow.wav"
+    }
+]

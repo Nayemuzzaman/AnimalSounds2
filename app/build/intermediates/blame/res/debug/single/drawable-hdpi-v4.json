@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/home/guidry/StudioProjects/AnimalSounds2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cow_pressed.png",
+        "source": "/home/guidry/StudioProjects/AnimalSounds2/app/src/main/res/drawable-hdpi/cow_pressed.png"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/AnimalSounds2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/home/guidry/StudioProjects/AnimalSounds2/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/AnimalSounds2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sheep_focused.png",
+        "source": "/home/guidry/StudioProjects/AnimalSounds2/app/src/main/res/drawable-hdpi/sheep_focused.png"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/AnimalSounds2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/duck_focused.png",
+        "source": "/home/guidry/StudioProjects/AnimalSounds2/app/src/main/res/drawable-hdpi/duck_focused.png"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/AnimalSounds2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/guidry/StudioProjects/AnimalSounds2/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/AnimalSounds2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button2.xml",
+        "source": "/home/guidry/StudioProjects/AnimalSounds2/app/src/main/res/drawable-hdpi/button2.xml"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/AnimalSounds2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sheep.png",
+        "source": "/home/guidry/StudioProjects/AnimalSounds2/app/src/main/res/drawable-hdpi/sheep.png"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/AnimalSounds2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sheep_pressed.png",
+        "source": "/home/guidry/StudioProjects/AnimalSounds2/app/src/main/res/drawable-hdpi/sheep_pressed.png"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/AnimalSounds2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/buttonbaby.xml",
+        "source": "/home/guidry/StudioProjects/AnimalSounds2/app/src/main/res/drawable-hdpi/buttonbaby.xml"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/AnimalSounds2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/duck.png",
+        "source": "/home/guidry/StudioProjects/AnimalSounds2/app/src/main/res/drawable-hdpi/duck.png"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/AnimalSounds2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/del_icon.png",
+        "source": "/home/guidry/StudioProjects/AnimalSounds2/app/src/main/res/drawable-hdpi/del_icon.png"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/AnimalSounds2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/duck_pressed.png",
+        "source": "/home/guidry/StudioProjects/AnimalSounds2/app/src/main/res/drawable-hdpi/duck_pressed.png"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/AnimalSounds2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button1.xml",
+        "source": "/home/guidry/StudioProjects/AnimalSounds2/app/src/main/res/drawable-hdpi/button1.xml"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/AnimalSounds2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cow_focused.png",
+        "source": "/home/guidry/StudioProjects/AnimalSounds2/app/src/main/res/drawable-hdpi/cow_focused.png"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/AnimalSounds2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/del.png",
+        "source": "/home/guidry/StudioProjects/AnimalSounds2/app/src/main/res/drawable-hdpi/del.png"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/AnimalSounds2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/del_pressed.png",
+        "source": "/home/guidry/StudioProjects/AnimalSounds2/app/src/main/res/drawable-hdpi/del_pressed.png"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/AnimalSounds2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cow.png",
+        "source": "/home/guidry/StudioProjects/AnimalSounds2/app/src/main/res/drawable-hdpi/cow.png"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/AnimalSounds2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button3.xml",
+        "source": "/home/guidry/StudioProjects/AnimalSounds2/app/src/main/res/drawable-hdpi/button3.xml"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/AnimalSounds2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/del_focused.png",
+        "source": "/home/guidry/StudioProjects/AnimalSounds2/app/src/main/res/drawable-hdpi/del_focused.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/guidry/StudioProjects/AnimalSounds2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon.png",
+        "source": "/home/guidry/StudioProjects/AnimalSounds2/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/AnimalSounds2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/home/guidry/StudioProjects/AnimalSounds2/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    }
+]

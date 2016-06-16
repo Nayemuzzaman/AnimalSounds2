@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="560dpi"
+    format="7"
+    timestamp="1195885879013796"
+    token="3306654490791093276" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/home/guidry/StudioProjects/AnimalSounds2/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="1195885879013796" >
+        <artifact
+            location="/home/guidry/StudioProjects/AnimalSounds2/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
