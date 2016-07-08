@@ -21,4 +21,4 @@ http://eagle.phys.utk.edu/guidry/android/ and selecting <i>Resources > Packages
 for All Projects</i> from the menu.
 
 This project represents the solution to Exercise 1 of the project <em>AnimalSounds</em> 
-from http://eagle.phys.utk.edu/guidry/android/ and selecting.
+from http://eagle.phys.utk.edu/guidry/android/, where further information may be found.
